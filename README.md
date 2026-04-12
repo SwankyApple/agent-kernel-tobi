@@ -27,6 +27,7 @@ That's it. The agent reads the kernel, realizes it's new, asks who you want it t
 AGENTS.md          ← kernel (generic, don't edit)
 IDENTITY.md        ← who this agent is (agent maintains)
 KNOWLEDGE.md       ← index of knowledge files (agent maintains)
+DREAMS.md          ← memory consolidation protocol
 knowledge/         ← facts about the world (mutable)
 notes/             ← daily session logs (append-only)
 ```
