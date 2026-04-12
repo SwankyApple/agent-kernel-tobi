@@ -4,7 +4,7 @@ The easiest way to create an AI agent. Clone, start, talk.
 
 Your agent remembers between sessions, takes notes, and builds on past work. No framework, no database — just three markdown files and a git repo.
 
-Works with any AI coding agent: OpenCode, Claude Code, Codex, Cursor, Windsurf, etc.
+Works with any AI coding agent: pi, Claude Code, Codex, Cursor, Windsurf, etc.
 
 ## Quick start
 
