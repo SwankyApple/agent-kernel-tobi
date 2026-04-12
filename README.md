@@ -16,7 +16,7 @@ cd my-agent
 Start your agent:
 
 ```bash
-opencode     # or claude, codex, cursor, etc.
+pi     # or claude, codex, cursor, etc.
 ```
 
 That's it. The agent reads the kernel, realizes it's new, asks who you want it to be. You tell it. It remembers.
@@ -52,7 +52,7 @@ Each agent is its own repo. To create another:
 ```bash
 git clone https://github.com/oguzbilgic/agent-kernel.git another-agent
 cd another-agent
-opencode     # or claude, codex, etc.
+pi     # or claude, codex, etc.
 ```
 
 Same kernel, different identity, different knowledge. You can have a homelab agent, an investing agent, a health agent — all running the same OS.

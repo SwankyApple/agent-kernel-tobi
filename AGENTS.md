@@ -38,7 +38,7 @@ Two kinds of memory, kept separate:
 **Narrative** (`notes/`) — what happened, what was tried, what decisions were made, and what's still open. Append-only. Never modify a past day's entry. Lets a new session pick up exactly where the last one left off.
 
 ## Dream
-Dreaming consolidates scattered session noise into durable knowledge. See `DREAM.md` for the full protocol (Orient → Signal → Consolidate → Prune). Best run periodically — e.g. a cron-triggered `autodream` task that checks for recent conversations or new context before running. A `/dream` skill lets the operator trigger it manually.
+Dreaming consolidates scattered session noise into durable knowledge. See `DREAMS.md` for the full protocol (Orient → Signal → Consolidate → Prune). Best run periodically — e.g. a cron-triggered `autodream` task that checks for recent conversations or new context before running. A `/dream` skill lets the operator trigger it manually.
 
 ## Rules
 - Ignore README.md — it's for humans, not for you
